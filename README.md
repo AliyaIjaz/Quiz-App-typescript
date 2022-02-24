@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is deployed on surge http://ty-quizapp-aliya.surge.sh/
+This project is deployed on surge https://ty-quizapp-aliya.surge.sh/
 
 ## Available Scripts
 
